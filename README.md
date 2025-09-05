@@ -19,4 +19,4 @@ This is the refactored version of **Mini Web App Manager**, built in **Flutter**
 ## 🚀 Getting Started
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/<your-existing-repo>.git
+   git clone https://github.com/<Johnnierad24>/<mini-web-app-flutter>.git
